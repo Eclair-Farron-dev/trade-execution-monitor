@@ -1,0 +1,72 @@
+{
+  "platform": "Streamlit Community Cloud",
+  "python": "3.12",
+  "entrypoint": "app.py",
+  "data": "synthetic",
+  "files": {
+    ".gitignore": {
+      "bytes": 70,
+      "sha256": "cd2e5ce090694dabc39edaf8cf644a8f71fb941667ad360e5f2359918176748a"
+    },
+    ".streamlit/config.toml": {
+      "bytes": 226,
+      "sha256": "dbac85afc3f58d15dca56f78bf649beb2866f28dd9906b31cab7cc95c2b5428f"
+    },
+    "README.md": {
+      "bytes": 730,
+      "sha256": "c37e03b176c8eb0d3ae3b1ce5c976411ac87bec9ee50aae881163201995ab5ac"
+    },
+    "app.py": {
+      "bytes": 18737,
+      "sha256": "07a4066247b865d3c0e2b4a5bcf9695b98c20f841a2fcf1f0bf86e7776e34b52"
+    },
+    "artifacts/evaluation.json": {
+      "bytes": 11184,
+      "sha256": "a412a27c3bfd5fe3d4460443507ae859f3694508712c431afd4185196e30dd05"
+    },
+    "assets/workbench.css": {
+      "bytes": 8656,
+      "sha256": "a0ad812abc54cb522880968c3c14e345f94ca522a75cd6761404cd88b1464496"
+    },
+    "docs/ARCHITECTURE.md": {
+      "bytes": 3219,
+      "sha256": "57e606d13e1aa3c19e908906e21931e2f652d104185a27b17b9208b5b25ceaa6"
+    },
+    "docs/METRICS.md": {
+      "bytes": 4267,
+      "sha256": "35715099ae0ad8de8c5c1d4c79b7d04a8177cb169d3d027150cabd884c738ce8"
+    },
+    "docs/PUBLIC_GUIDE.md": {
+      "bytes": 5045,
+      "sha256": "007ad334c1ac6de949218897e4613dd337d2c0d86bc0e157cfdd4b6ba6fc3e6e"
+    },
+    "monitor/__init__.py": {
+      "bytes": 79,
+      "sha256": "8e009e793abf49a6355521da558db27d11642138beef4be6da0e455b27c434d5"
+    },
+    "monitor/config.py": {
+      "bytes": 639,
+      "sha256": "3767ea3155a8125ff2dc6c1f590f9b7b1f59fefff72634bf8009acab39d8139b"
+    },
+    "monitor/detection.py": {
+      "bytes": 3078,
+      "sha256": "4db340120a8c0652aa9b64afb03d2f9893752dd29ccd2c414fa108969083d612"
+    },
+    "monitor/engine.py": {
+      "bytes": 7310,
+      "sha256": "05aecbd156bb0bf17706570175b3c3814f77d6cd98f3786e86520e6be21eae94"
+    },
+    "monitor/investigation.py": {
+      "bytes": 14779,
+      "sha256": "c6026bc6c3587064db0caad8af77030a3e6560f729e4bf7d580c55f453b16e24"
+    },
+    "monitor/simulation.py": {
+      "bytes": 2107,
+      "sha256": "2ac272f545fdde303176989a0011dfa652bf06531d15f0b81accaf6a2f539e0e"
+    },
+    "requirements.txt": {
+      "bytes": 101,
+      "sha256": "98d76f7e127ff837d923b4060064201f192c24bf51ee3ea4afeb705a14e6927e"
+    }
+  }
+}
